@@ -1,4 +1,4 @@
 ✅PARA O PROGRAMA FUNCIONAR CORRETAMENTE INSTALE O PYAUTOGUI:
 
 PARA INSTALAR ESSA BIBLIOTECA UTILIZE :
-pip install PyAutoGUI
+pip install PyAutoGUI no seu terminal da IDE ou do seu Sistema Operacional
